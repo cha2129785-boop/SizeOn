@@ -1,0 +1,10 @@
+Pretendard 폰트는 SIL Open Font License 1.1 (OFL 1.1) 하에 배포됩니다.
+상업적 사용·수정·재배포가 무료로 허용됩니다. (폰트 자체 판매만 금지)
+
+Copyright (c) 2021 Kil Hyung-jin (https://github.com/orioncactus/pretendard),
+with Reserved Font Name "Pretendard".
+
+전체 라이선스 원문: https://github.com/orioncactus/pretendard/blob/main/LICENSE
+SIL OFL 1.1: https://scripts.sil.org/OFL
+
+본 프로그램(Size On)은 위 폰트를 번들하여 배포하며, OFL 1.1의 조건을 준수합니다.
